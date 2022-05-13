@@ -4,5 +4,3 @@ All documentation for the language & compiler can be found on the [ISOL8-Docs re
 <br>
 <br>
 ___
-## The Group
-Made by TSE Group 36
